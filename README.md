@@ -2,15 +2,16 @@
 
 This project is a simple 2D arcade game built with Python and Pygame. The objective is to control the player, avoid enemies, and collect bonuses to increase your score.
 
-![Image](https://github.com/user-attachments/assets/ba40bf1d-9b92-437c-8143-6a66ac89923f)
-
-
 ## Features
 
 - **Dynamic Background**: Smooth scrolling background for an immersive gaming experience.
 - **Player Movement**: Control the player with the arrow keys to move up, down, left, and right.
 - **Enemies and Bonuses**: Randomly generated enemies to avoid and bonuses to collect.
 - **Score Tracking**: A real-time score display.
+
+![Image](https://github.com/user-attachments/assets/ba40bf1d-9b92-437c-8143-6a66ac89923f)
+
+---
 
 ## Requirements
 
